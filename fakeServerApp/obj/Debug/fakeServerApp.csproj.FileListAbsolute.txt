@@ -1,0 +1,64 @@
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\fakeServerApp.dll.config
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\fakeServerApp.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\fakeServerApp.pdb
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\Antlr3.Runtime.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\Microsoft.Web.Infrastructure.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\Newtonsoft.Json.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Net.Http.Formatting.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Helpers.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Http.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Http.WebHost.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Mvc.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Optimization.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Razor.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.Deployment.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.Razor.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\WebGrease.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Helpers.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Mvc.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Optimization.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Razor.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.Deployment.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.WebPages.Razor.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\Antlr3.Runtime.pdb
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\Newtonsoft.Json.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Net.Http.Formatting.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Http.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\bin\System.Web.Http.WebHost.xml
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\obj\Debug\fakeServerApp.csprojResolveAssemblyReference.cache
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\obj\Debug\fakeServerApp.dll
+D:\User Profile\Dokumenty\Visual Studio 2013\Projects\localhost_6939\fakeServerApp\obj\Debug\fakeServerApp.pdb
+F:\ngDemo\fakeServerApp\bin\fakeServerApp.dll.config
+F:\ngDemo\fakeServerApp\bin\fakeServerApp.dll
+F:\ngDemo\fakeServerApp\bin\fakeServerApp.pdb
+F:\ngDemo\fakeServerApp\bin\Antlr3.Runtime.dll
+F:\ngDemo\fakeServerApp\bin\Microsoft.Web.Infrastructure.dll
+F:\ngDemo\fakeServerApp\bin\Newtonsoft.Json.dll
+F:\ngDemo\fakeServerApp\bin\System.Net.Http.Formatting.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Helpers.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Http.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Http.WebHost.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Mvc.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Optimization.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Razor.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.Deployment.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.Razor.dll
+F:\ngDemo\fakeServerApp\bin\WebGrease.dll
+F:\ngDemo\fakeServerApp\bin\System.Web.Helpers.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.Mvc.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.Optimization.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.Razor.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.Deployment.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.WebPages.Razor.xml
+F:\ngDemo\fakeServerApp\bin\Antlr3.Runtime.pdb
+F:\ngDemo\fakeServerApp\bin\Newtonsoft.Json.xml
+F:\ngDemo\fakeServerApp\bin\System.Net.Http.Formatting.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.Http.xml
+F:\ngDemo\fakeServerApp\bin\System.Web.Http.WebHost.xml
+F:\ngDemo\fakeServerApp\obj\Debug\fakeServerApp.csprojResolveAssemblyReference.cache
+F:\ngDemo\fakeServerApp\obj\Debug\fakeServerApp.dll
+F:\ngDemo\fakeServerApp\obj\Debug\fakeServerApp.pdb

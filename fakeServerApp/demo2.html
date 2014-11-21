@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Demo2: Dependencies & services</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.3/angular.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body ng-app="demo2" ng-controller="Demo2Controller">
+    <div my-draggable> that's a draggable div</div>
+    <p>{{newTest}}</p>
+    <div class="list-group">
+        <div class="row">
+            <div class="col-md-3">Id</div>
+            <div class="col-md-6">Numerator</div>
+            <div class="col-md-3">Price</div>
+        </div>
+        <div  ng-repeat="order in orders" my-draggable class="row">
+            <div class="col-md-3">{{order.id}}</div>
+            <div class="col-md-6">{{order.numerator}}</div>
+            <div class="col-md-3">{{order.price}}</div>
+        </div>
+    </div>
+</body>
+</html>

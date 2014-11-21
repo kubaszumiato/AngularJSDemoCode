@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Demo3: jQuery vs AngularJS</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.3/angular.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/jquery-custom.js"></script>
+</head>
+<body ng-app="demo3" ng-controller="Demo3Controller">
+    <div my-draggable> that's a draggable div</div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <p>Orders from model:</p>
+            <div>
+                {{orders.length}}
+            </div> 
+
+            <p>Orders hardcoded: 1</p>
+
+            <p>TOTAL Orders: </p>
+            <div>
+                {{orders.length+ 1}}
+            </div>
+
+            <button ng-click="addOrder()">Add Order</button>
+            <table clickable>
+                <thead>
+                    <tr>
+                        <td>
+                            Id
+                        </td>
+
+                        <td>
+                            Numerator
+                        </td>
+                        <td>
+                            Price
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            x
+                        </td>
+                        <td>
+                            Nth
+                        </td>
+                        <td>
+                            -0.0
+                        </td>
+                    </tr>
+                    <tr ng-repeat="order in orders">
+                        <td>
+                            {{order.id}}
+                        </td>
+                        <td>
+                            {{order.numerator}}
+                        </td>
+                        <td>
+                            {{order.price}}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- jQuery-->
+        <div class="col-md-6">
+            <p>Orders from model: </p>
+            <div id="modelOrders"></div>
+
+            <p>Orders hardcoded: 1</p>
+
+            <p>TOTAL Orders: </p>
+            <div id="totalOrders"></div>
+
+            <button id="addOrderBtn">Add Order</button>
+            <table id="myTable">
+                <thead>
+                    <tr>
+                        <td>
+                            Id
+                        </td>
+
+                        <td>
+                            Numerator
+                        </td>
+                        <td>
+                            Price
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            x
+                        </td>
+                        <td>
+                            Nth
+                        </td>
+                        <td>
+                            -0.0
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-12">
+            <h1>$apply() $digest() $watch()</h1>
+            <clickable foo="foo" bar="bar"></clickable>            
+        </div>
+
+    </div>
+</body>
+</html>
